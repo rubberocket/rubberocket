@@ -20,6 +20,4 @@ __|__________________|
     J              L
     |______________|
 ```
-If you're expecting art and stuff, visit rubberocket.com! Expecting code? You have to visit my Codeberg page for that:
-
-https://codeberg.org/rubberocket/
+If you're expecting art and stuff, visit rubberocket.com!
